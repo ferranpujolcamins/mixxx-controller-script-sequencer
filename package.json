@@ -1,0 +1,10 @@
+{
+  "name": "mixxx-controller-script-sequencer",
+  "version": "0.0.0",
+  "description": "A Mixxx controller script library providing a simple sequencer based on Mixxx engine timers.",
+  "main": "sequencer.js",
+  "repository": "https://github.com/ferranpujolcamins/mixxx-controller-script-sequencer.git",
+  "author": "Ferran Pujol Camins <ferranpujolcamins@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
